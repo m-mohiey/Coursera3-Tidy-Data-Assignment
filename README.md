@@ -2,6 +2,15 @@
 ###Peer-graded Assignment: Tidy Dataset
 ***
 
+##Contents:
+  1. **Introduction**
+  2. **Background**
+  3. **Data Source**
+  4. **Script Walk-through**
+  
+***
+
+
 #Introduction:
 
 The purpose of this project is to demonstrate Our ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.  
@@ -25,14 +34,6 @@ The submitted data contains the following:
 
 [Click Here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-***
-
-*##Contents:
-  +1. Introduction
-  +2. Background
-  +3. Data Source
-  +4. Script Walk-through
-  
 ***
 
 ##Script Walk-through
