@@ -54,10 +54,10 @@ adding appropriate names to activity_labels frame as id & activity
 
 >fter doing some views noticed that activity_labels goes with y_* and features goes with column names of X_* while subject_* acts as observation ID
 
-**Step 3:** reading the train datasets (using read.table)
-      *Step 3.1:* assigning features names to X_train
-      *Step 3.2:* fixing names of subject_train & y_train
-      *Step 3.3:* now building the train dataset by combinig all the three together
+**Step 3:** reading the train datasets (using read.table)  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Step 3.1:* assigning features names to X_train  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Step 3.2:* fixing names of subject_train & y_train  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Step 3.3:* now building the train dataset by combinig all the three together  
       
 **Step 4:** repeating *Step 3* but for test sets
 
